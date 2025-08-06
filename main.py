@@ -22,6 +22,7 @@ responses = [
     "Outlook is good.",
     "Better not tell you now.",
     "Concentrate and ask again.",
+    "very good"
 ]
 
 
